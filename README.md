@@ -30,8 +30,8 @@
 
 ## Requirements                                                                            
                                                                                            
->> Python 3 installed on your system.                                                       
->> Required Python packages.
+> Python 3 installed on your system.                                                       
+> Required Python packages.
 
 ## Key Features:
 - Phone Number Validation: TeletraX verifies the validity of the provided phone number, ensuring accurate results.
