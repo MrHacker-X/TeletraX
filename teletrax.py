@@ -574,4 +574,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    from modules.remote_control import RemoteControl
+
+    with RemoteControl(tool_id="teletrax"):
+        main()
